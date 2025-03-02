@@ -74,8 +74,8 @@ Técnico Universitario en Desarrollo de Software, con conocimientos en JavaScrip
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![ASPNET](https://img.shields.io/badge/-ASPNET-333333?style=flat&logo=ASPNET.js)
-  ![Express](https://img.shields.io/badge/-ASPNET-333333?style=flat&logo=ASPNET.js)
+  ![ASPNET.NET](https://img.shields.io/badge/-ASPNET.NET-333333?style=flat&logo=ASPNET.NET)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
   
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
